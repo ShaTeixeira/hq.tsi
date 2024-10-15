@@ -50,3 +50,5 @@ A branch `develop` é a branch destinada ao desenvolvimento contínuo. Aqui, as 
 Isso garante que o trabalho em andamento não afete a versão estável do projeto enquanto possibilita colaboração contínua.
 
 
+
+
