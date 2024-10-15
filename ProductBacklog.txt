@@ -1,0 +1,58 @@
+Product Backlog
+1 - História: Definir o tema da história
+Tarefas:
+1. Reunião com a equipe para gerar ideias
+2. Escolher o gênero (aventura, ficção científica, etc.)
+3. Definir o tema central (amizade, coragem, etc.)
+
+2 - História: Criar a história
+Tarefas:
+1. Desenvolver o ponto de partida da história
+2. Definir os principais eventos
+3. Criar a resolução
+
+3 - Personagens: Definir os personagens principais
+Tarefas:
+1. Criação de perfis de personagens (nome e aparência)
+2. Definir o desenvolvimento dos personagens
+3. Elaborar a relação entre os personagens
+
+4 - Visual: Definir o estilo
+Tarefas:
+1. Escolher um estilo que combine com o tema e a narrativa
+2. Criar um conjunto de referências visuais
+
+5 - Produção: rascunho inicial
+Tarefas:
+1. Desenvolver o layout básico das páginas
+2. Definir a sequência das cenas
+3. Colocar diálogos iniciais
+
+6 - Produção: Primeira versão do roteiro
+Tarefas:
+1. Escrever diálogos para os personagens principais
+2. Definir as descrições de cenas e ações
+
+7 - Revisão e Feedback: Revisar a primeira versão do rascunho e roteiro
+Tarefas:
+1. Reunir feedback da equipe
+2. Ajustar o rascunho e roteiro conforme necessário
+
+8 - Produção: Criar as primeiras páginas
+Tarefas:
+1. Criar as primeiras páginas com base no rascunho e
+roteiro revisados
+
+9 - Revisão e Feedback: Teste de leitura
+Tarefas:
+1. Reunir um grupo de leitores teste
+2. Coletar feedback sobre narrativa, arte e diálogos
+
+10 - Produção: Finalizar as páginas restantes
+Tarefas:
+1. Criar e adicionar diálogos nas páginas finais
+
+11 - Revisão Final: Aprovação e ajustes finais
+Tarefas:
+1. Revisar todo o conteúdo finalizado
+2. Fazer ajustes finais, se necessário
