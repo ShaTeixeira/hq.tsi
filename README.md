@@ -30,7 +30,7 @@ conseguem apresentar uma plataforma funcional.
 - **Capítulo 1**: Introdução aos personagens e ao mundo da história.
 - **Capítulo 2**: Apresentação do conflito principal.
 - **Capítulo 3**: Desenvolvimento das tramas e subtramas.
-- **Capítulo 4**: Conclusão e resolução do enredo.
+- **Capítulo 4**: Conclusão e resolução do enredo com sucesso da equipe.
 
 
 ## Branches do Projeto:
@@ -48,5 +48,3 @@ A branch `develop` é a branch destinada ao desenvolvimento contínuo. Aqui, as 
 4. Quando todas as funcionalidades estiverem prontas e estáveis, a branch `develop` será mesclada na `main` para entrega.
 
 Isso garante que o trabalho em andamento não afete a versão estável do projeto enquanto possibilita colaboração contínua.
-
-
